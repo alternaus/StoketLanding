@@ -15,7 +15,7 @@ export function CTA() {
           </p>
           <div className="mt-8 flex justify-center">
             <a
-              href="https://conteo.acqua.fit/login?tab=register&plan=free"
+              href="https://app.stoket.com/login?tab=register&plan=free"
               className="flex items-center justify-center gap-2 rounded-lg bg-white px-8 py-4 text-lg font-semibold text-[#8557FB] transition-colors hover:bg-[#f4efff]"
             >
               Empezar prueba gratis

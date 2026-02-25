@@ -95,8 +95,8 @@ export function Pricing() {
                 <a
                   href={
                     isFreePlan
-                      ? "https://conteo.acqua.fit/login?tab=register&plan=free"
-                      : "https://conteo.acqua.fit/landing"
+                      ? "https://app.stoket.com/login?tab=register&plan=free"
+                      : "https://app.stoket.com/landing"
                   }
                   className={`mb-8 inline-flex w-full justify-center rounded-lg py-3 font-semibold transition-colors ${
                     plan.highlighted

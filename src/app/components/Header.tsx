@@ -38,13 +38,13 @@ export function Header() {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://conteo.acqua.fit/login"
+              href="https://app.stoket.com/login"
               className="text-white/80 hover:text-white transition-colors"
             >
               Iniciar sesión
             </a>
             <a
-              href="https://conteo.acqua.fit/login?tab=register&plan=free"
+              href="https://app.stoket.com/login?tab=register&plan=free"
               className="rounded-lg bg-[#8557FB] px-6 py-2 text-white hover:bg-[#7448e5] transition-colors"
             >
               Prueba gratis
