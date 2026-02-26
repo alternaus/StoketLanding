@@ -28,7 +28,7 @@ export function Hero() {
 
             <div className="flex flex-wrap gap-4">
               <a
-                href="https://app.stoket.com/login?tab=register&plan=free"
+                href="https://app.stoket.co/login?tab=register&plan=free"
                 className="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-8 py-4 text-lg font-semibold text-[#20143f] transition-colors hover:bg-[#f4efff]"
               >
                 Comenzar prueba gratis

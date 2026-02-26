@@ -95,8 +95,8 @@ export function Pricing() {
                 <a
                   href={
                     isFreePlan
-                      ? "https://app.stoket.com/login?tab=register&plan=free"
-                      : "https://app.stoket.com/landing"
+                      ? "https://app.stoket.co/login?tab=register&plan=free"
+                      : "https://app.stoket.co/landing"
                   }
                   className={`mb-8 inline-flex w-full justify-center rounded-lg py-3 font-semibold transition-colors ${
                     plan.highlighted

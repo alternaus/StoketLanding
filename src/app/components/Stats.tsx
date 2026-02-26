@@ -15,7 +15,7 @@ export function Stats() {
               con Stoket.
             </p>
             <a
-              href="https://app.stoket.com/landing"
+              href="https://app.stoket.co/landing"
               className="mt-8 inline-flex rounded-lg bg-[#8557FB] px-6 py-3 font-semibold text-white transition-colors hover:bg-[#7448e5]"
             >
               Comprar plan
